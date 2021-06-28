@@ -1,4 +1,4 @@
 # optimizing-parking-profit
 Matlab / Octave code for optimizing parking profit
 for Mzwakhe Mthethwa's theses towards masters at
-http://archive.aims.ac.za/structured-masters-research-projects/2019/mzwakhe.pdf
+https://drive.google.com/file/d/1KvgfyZxKch5BsC9wZpv3knMk0bSL-0hT/view
